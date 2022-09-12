@@ -1,10 +1,9 @@
 
 # Iris
 
-This will give you 99.49% Write answer
-of Iris Data Sets.
+It has accuracy of 99.49%
 It takes Four Features for Prediction
-## Features
+## Features Are-:
 
 - Sepal Lenght
 - Petal Lenght
